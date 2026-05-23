@@ -12,6 +12,8 @@ This project is supposed to be used as base for any kind of mod you wish to crea
 ## How do I create a mod?
 In the **Main.cs** file, you will find  an example of dialogue alteration for you to try, there's also a method logger for you to see all the available methods that you can try during your mod creation. There are a lot of methods some may be confusing and/or misleading, that's why I suggest you use AI to filter the methods you may need for your mod and avoid frustration.
 
+Change the game path in the BaseMod.csproj to your actual ```\pathfinder-kingmaker\game\``` path.
+
 ### How do I build it?
 
 Since this mod requires dotnet framework, you may build the project using the following commands:
