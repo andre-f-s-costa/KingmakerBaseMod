@@ -51,6 +51,8 @@ CompanionDialogueExpansion\
 
 To make installable by UMM (Unity Mod Manager) you will need to compress into a zip file, like ```CompanionDialogueExpansion.zip```
 
+If you need help with dialogue trees I suggest **[KingmakerDataminer](https://github.com/spacehamster/KingmakerDataminer/releases/tag/blueprints)**, thanks to spacehamster it's easier to find dialogue GUIDs.
+
 ### Limitation
 Due to the required dotnet framework version, I didn't find a way to build the mod in linux, not even with **mono**.
 So as you may have guessed, if you are in linux as I am, you need to create a windows virtual machine to build your mod, if you find a way let me know, so I can update this info.
